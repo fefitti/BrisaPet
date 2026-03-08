@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "628060845023",
+    "project_id": "pet-lovers-fefitti",
+    "storage_bucket": "pet-lovers-fefitti.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628060845023:android:77da92e1e223c1f3248a6a",
+        "android_client_info": {
+          "package_name": "com.example.pet_lovers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD_-ppGEpReDRKPJWPM6mvd-4hAX2EZ2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
