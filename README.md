@@ -1,6 +1,6 @@
 # Brisa Pet
 
-Este projeto foi desenvolvido como parte integrante do **Projeto de Extensão III**, aplicando conceitos de engenharia de software para resolver problemas reais da comunidade.
+Este projeto foi desenvolvido como parte integrante do **Projeto de Extensão III**, aplicando conceitos de engenharia de software para resolver problemas reais da comunidade e promover o bem-estar animal.
 
 ---
 
@@ -13,24 +13,35 @@ O **Brisa Pet** é uma plataforma digital focada no bem-estar animal. O sistema 
 * **Escalabilidade:** Desenvolver uma solução robusta capaz de suportar o cadastro de animais, fotos e informações de contato de forma organizada e intuitiva.
 
 ## 💡 Propósito
-Como software engineer, meu propósito com este projeto de extensão é aplicar conhecimentos técnicos — especificamente em **Flutter** e **Firebase** — para gerar um impacto positivo direto na sociedade. O Brisa Pet não é apenas uma aplicação; é uma tentativa de utilizar a tecnologia para otimizar processos de comunicação que, muitas vezes, ocorrem de forma desorganizada em redes sociais, conferindo mais credibilidade e eficiência para quem busca ou oferece ajuda.
-
-## 🛠 Tecnologias Utilizadas
-* **Frontend:** Flutter (Dart)
-* **Backend/Database:** Firebase (Firestore & Storage)
-* **Autenticação/Segurança:** Firebase Auth (Modo de teste)
+Como desenvolvedora de software, meu propósito com este projeto de extensão é aplicar conhecimentos técnicos — especificamente em desenvolvimento **mobile**, **banco de dados** e **nuvem** — para gerar um impacto positivo direto na sociedade. O Brisa Pet utiliza a tecnologia para otimizar processos de comunicação comunitária, conferindo mais credibilidade e eficiência para quem busca ou oferece ajuda na causa animal.
 
 ---
 
-## Getting Started
+## 🌍 Alinhamento com as ODS (Objetivos de Desenvolvimento Sustentável)
 
-Este projeto é uma aplicação Flutter completa. Se você deseja rodar ou contribuir com o projeto, siga os passos abaixo:
+Para a execução deste trabalho, selecionamos as seguintes metas das ODS:
 
-1.  **Clone o repositório:**
-    `git clone https://github.com/fefitti/BrisaPet.git`
-2.  **Instale as dependências:**
-    `flutter pub get`
-3.  **Execute o projeto:**
-    `flutter run`
+**Metas selecionadas:**
+* **9.C:** Aumentar significativamente o acesso às tecnologias de informação e comunicação e se empenhar para oferecer acesso universal e a preços acessíveis à internet.
+* **9.5:** Fortalecer a pesquisa científica, melhorar as capacidades tecnológicas de setores industriais em todos os países, particularmente os países em desenvolvimento, inclusive, até 2030, incentivando a inovação.
+* **11.A:** Apoiar relações econômicas, sociais e ambientais positivas entre áreas urbanas, periurbanas e rurais, reforçando o planejamento nacional e regional de desenvolvimento.
 
-Para mais detalhes sobre o Flutter, consulte a [documentação oficial](https://docs.flutter.dev/).
+---
+
+## 🛠 Tecnologias Utilizadas
+* **Frontend:** Flutter (Dart)
+* **Backend/Database:** Firebase Firestore (NoSQL)
+* **Storage:** Firebase Storage (Armazenamento de imagens)
+* **Versionamento:** Git & GitHub
+
+## 🏁 Como Rodar o Projeto
+
+1. **Clone o repositório:**
+   `git clone git@github.com:fefitti/BrisaPet.git`
+2. **Instale as dependências:**
+   `flutter pub get`
+3. **Execute o projeto:**
+   `flutter run`
+
+---
+Desenvolvido por **Fernanda Fittipaldi Santos** como parte das atividades acadêmicas de Engenharia de Software.
